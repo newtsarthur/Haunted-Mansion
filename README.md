@@ -27,7 +27,7 @@ Aqui estão os controles que você vai usar para se aventurar pela mansão:
 
 ## Requisitos do Sistema
 
-- **Sistema Operacional**: Windows, Linux e Mac (não testado em Linux, Mac e outras plataformas)
+- **Sistema Operacional**: Windows, Linux e Mac (não testado em Linux, e Mac)
 - **Espaço em Disco**: Aproximadamente 200 MB
 
 ## Contatos
