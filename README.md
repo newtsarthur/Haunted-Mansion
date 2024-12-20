@@ -4,9 +4,9 @@
 
 ## Como Jogar
 
-1. **Baixe o arquivo .rar**: Vá até a seção de releases do repositório e baixe o arquivo compactado com o executável do jogo.
-2. **Extraia o arquivo**: Após baixar, extraia o arquivo .rar em uma pasta de sua preferência usando um programa como WinRAR ou 7-Zip.
-3. **Execute o jogo**: Dentro da pasta extraída, localize o executável e dê um duplo clique para começar a diversão!
+1. **Baixe o arquivo .rar ou clone este repositório**: Vá até a seção de releases do repositório e baixe o arquivo compactado com o executável do jogo.
+3. **Extraia o arquivo**: Após baixar, extraia o arquivo .rar em uma pasta de sua preferência usando um programa como WinRAR ou 7-Zip.
+4. **Execute o jogo**: Dentro da pasta extraída, localize o executável e dê um duplo clique para começar a diversão!
 
 ### Objetivo do Jogo
 
