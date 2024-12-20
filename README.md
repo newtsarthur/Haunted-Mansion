@@ -24,7 +24,7 @@ Aqui estão os controles que você vai usar para se aventurar pela mansão:
 - **Shift (esquerdo)**: Correr
 - **Esc**: Sair o jogo
 - **Clique direito do mouse**: Atacar
-- 
+
 ## Requisitos do Sistema
 
 - **Sistema Operacional**: Windows (não testado em outras plataformas)
