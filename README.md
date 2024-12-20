@@ -2,20 +2,29 @@
 
 **Haunted Mansion** é um jogo meme criado para diversão! Um jogo cheio de humor e momentos hilários, onde você se aventura em uma mansão assombrada, enfrentando o principal vilão, o **Duolingo**, e explorando o personagem principal, o **Kyojuro Rengoku**, o Hashira da Chama (de *Demon Slayer*).
 
-Se você está em busca de diversão, risadas e uma experiência de jogo única, "Haunted Mansion" é o jogo perfeito para você!
-
 ## Como Jogar
 
-1. **Baixe o arquivo zipado**: Vá até a seção de releases do repositório e baixe o executável do jogo.
-2. **Extraia o arquivo**: Após baixar, extraia o arquivo zip em uma pasta de sua preferência.
+1. **Baixe o arquivo .rar**: Vá até a seção de releases do repositório e baixe o arquivo compactado com o executável do jogo.
+2. **Extraia o arquivo**: Após baixar, extraia o arquivo .rar em uma pasta de sua preferência usando um programa como WinRAR ou 7-Zip.
 3. **Execute o jogo**: Dentro da pasta extraída, localize o executável e dê um duplo clique para começar a diversão!
-
-
 
 ### Objetivo do Jogo
 
-O objetivo principal é sobreviver, enquanto enfrenta o vilão **Duolingo** e a ajuda do nosso herói, **Kyojuro Rengoku**, o Hashira da Chama! Prepare-se para momentos de tensão e risadas ao longo do caminho!
+O objetivo principal é sobreviver, enquanto enfrenta o vilão **Duolingo** e conta com a ajuda do nosso herói, **Kyojuro Rengoku**, o Hashira da Chama! Prepare-se para momentos de tensão e risadas ao longo do caminho!
 
+## Controles do Jogo
+
+Aqui estão os controles que você vai usar para se aventurar pela mansão:
+
+- **W**: Mover para frente
+- **A**: Mover para a esquerda
+- **S**: Mover para trás
+- **D**: Mover para a direita
+- **Space**: Interagir com objetos
+- **Shift (esquerdo)**: Correr
+- **Esc**: Sair o jogo
+- **Clique direito do mouse**: Atacar
+- 
 ## Requisitos do Sistema
 
 - **Sistema Operacional**: Windows (não testado em outras plataformas)
