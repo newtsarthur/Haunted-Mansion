@@ -8,6 +8,28 @@
 3. **Extraia o arquivo**: Após baixar, extraia o arquivo .rar em uma pasta de sua preferência usando um programa como WinRAR ou 7-Zip.
 4. **Execute o jogo**: Dentro da pasta extraída, localize o executável e dê um duplo clique para começar a diversão!
 
+## Screenshots
+
+Aqui estão algumas imagens para você ter uma ideia do visual e da diversão do jogo:
+
+![Tela Inicial](img/haunted01.png)
+*Tela inicial do jogo*
+
+![Gameplay 2](img/haunted02.png)
+*Momento emocionante durante a jogabilidade*
+
+![Gameplay 3](img/haunted03.png)
+*Explorando a mansão com Kyojuro Rengoku*
+
+![Gameplay 4](img/haunted04.png)
+*Templo com a katana*
+
+![Gameplay 5](img/haunted05.png)
+*Cutscene obtendo a katana*
+
+![Gameplay 6](img/haunted06.png)
+*Enfrentando o temido vilão Duolingo!*
+
 ### Objetivo do Jogo
 
 O objetivo principal é sobreviver, enquanto enfrenta o vilão **Duolingo** e conta com a ajuda do nosso herói, **Kyojuro Rengoku**, o Hashira da Chama! Prepare-se para momentos de tensão e risadas ao longo do caminho!
